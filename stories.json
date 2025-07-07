@@ -1,0 +1,11 @@
+{
+  "v": 3,
+  "stories": {
+    "xss--attack": {
+      "id": "xss--attack",
+      "title": "<img src=x onerror=alert(document.domain)>",
+      "name": "<script>alert('XSS')</script>",
+      "importPath": "./src/XSS.stories.tsx"
+    }
+  }
+}
