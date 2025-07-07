@@ -1,0 +1,12 @@
+{
+  "name": "storybook-pentest",
+  "version": "1.0.0",
+  "scripts": {
+    "build-storybook": "storybook build"
+  },
+  "devDependencies": {
+    "@storybook/react": "^7.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
