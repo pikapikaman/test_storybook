@@ -1,0 +1,11 @@
+{
+  "v": 4,
+  "entries": {
+    "xss--script": {
+      "id": "xss--script",
+      "title": "<img src=x onerror=alert('index.json')>",
+      "name": "<script>alert('index')</script>",
+      "importPath": "./src/XSS.stories.tsx"
+    }
+  }
+}
